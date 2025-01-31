@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b4118f60-0fe1-4f2d-ac42-fea5126d5465)# Critical-creative-thinking---Summative-
+# Critical-creative-thinking---Summative-
 # WorWander - The Digital Nomad App
 
 ## Project Overview
