@@ -26,26 +26,26 @@ WorkWander is designed for digital nomads who seek a seamless way to find remote
 Below are key screenshots from the project demo:
 
 ### **Home Screen **
-[image](https://github.com/user-attachments/assets/e8187e89-8c66-4730-a1d3-c3ff02d99b30)
+(https://github.com/user-attachments/assets/e8187e89-8c66-4730-a1d3-c3ff02d99b30)
 
 ### **Workspace Finder & Reviews**
-[image](https://github.com/user-attachments/assets/3916ab1e-57a9-4637-8469-bbb97ca26559)
+(https://github.com/user-attachments/assets/3916ab1e-57a9-4637-8469-bbb97ca26559)
 
 
 ### **Event & Networking Hub**
-![image](https://github.com/user-attachments/assets/59bb79b2-bc5e-49fd-a1bf-036a9043b0d5)
+(https://github.com/user-attachments/assets/59bb79b2-bc5e-49fd-a1bf-036a9043b0d5)
 
 
 ### **Budget management Feature**
-![image](https://github.com/user-attachments/assets/e1fa763f-40cb-4015-90c2-affa4d2ce97f)
+(https://github.com/user-attachments/assets/e1fa763f-40cb-4015-90c2-affa4d2ce97f)
 
 ### **Community forum **
-![image](https://github.com/user-attachments/assets/40ed8892-7fb0-4cb9-b106-40ef6468731b)
-![image](https://github.com/user-attachments/assets/d93c9944-73bc-4112-a412-2cf10bb1f6cf)
+(https://github.com/user-attachments/assets/40ed8892-7fb0-4cb9-b106-40ef6468731b)
+(https://github.com/user-attachments/assets/d93c9944-73bc-4112-a412-2cf10bb1f6cf)
 
 ### **Chatbot and Culture feature **
-![image](https://github.com/user-attachments/assets/ba62b979-21c3-494a-97b6-e40e5c224957)
-![image](https://github.com/user-attachments/assets/00a8e224-63f7-44ec-afaf-71892fb782d1)
+(https://github.com/user-attachments/assets/ba62b979-21c3-494a-97b6-e40e5c224957)
+(https://github.com/user-attachments/assets/00a8e224-63f7-44ec-afaf-71892fb782d1)
 
 
 
