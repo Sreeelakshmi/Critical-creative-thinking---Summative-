@@ -13,7 +13,7 @@ WorkWander is designed for digital nomads who seek a seamless way to find remote
 
 ### Uniquely Developed Features:
 - **Nomad-Friendly Accommodation Finder**: Curated listings of stays that offer work-friendly amenities such as ergonomic desks and high-speed internet.
-- **Community Forums**: A platform where nomads can discuss post content with their fellow nomads on different topics.
+- **Community Forums**: A platform where nomads can discuss, post content with their fellow nomads on different topics.
 - **Integrated Expense Tracker**: Helps nomads manage their finances, including workspace costs, travel expenses, and subscriptions.
 - **AI-Powered Chatbot**
 
