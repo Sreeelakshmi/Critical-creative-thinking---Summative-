@@ -6,16 +6,16 @@ WorkWander is designed for digital nomads who seek a seamless way to find remote
 
 ## Features
 ### Implemented Features from Provided List:
-- **Location-Based Workspace Finder**: Users can search for coworking spaces, cafes, and quiet work-friendly locations with high-speed internet.
-- **User Reviews & Ratings**: Community-driven feedback on workspaces to help users make informed decisions.
-- **Event & Networking Hub**: Listings of digital nomad meetups, conferences, and networking events.
-- **Task & Time Management**: An in-app planner to schedule tasks, meetings, and track productivity.
+- **Location-Based Workspace Finder**: Users can search for Budget-friendly coworking spaces, cafes, and quiet work-friendly locations with high-speed internet.
+- **User Reviews & Ratings**: Community-driven feedback on workspaces to help users make informed and better decisions.
+- **Event & Networking Hub**: Listings of events and activities around.
+- **Health and wellness**: Nearby heal and wellness events happening will be visible here.
 
 ### Uniquely Developed Features:
 - **Nomad-Friendly Accommodation Finder**: Curated listings of stays that offer work-friendly amenities such as ergonomic desks and high-speed internet.
-- **Remote Work Visa & Legal Assistance**: Guides on visa requirements for different countries and access to legal consultations.
+- **Community Forums**: A platform where nomads can discuss post content with their fellow nomads on different topics.
 - **Integrated Expense Tracker**: Helps nomads manage their finances, including workspace costs, travel expenses, and subscriptions.
-- **AI-Powered Work Mode Suggestions**: Analyzes user preferences and suggests the best locations for focus work based on noise levels, internet speed, and available amenities.
+- **AI-Powered Chatbot**
 
 ## Tools & Technologies Used
 - **Prototyping & Design**: Figma
@@ -25,7 +25,7 @@ WorkWander is designed for digital nomads who seek a seamless way to find remote
 ## Project Demo & Visualizations
 Below are key screenshots from the project demo:
 
-### **Home Screen **
+### **Home Screen**
 (https://github.com/user-attachments/assets/e8187e89-8c66-4730-a1d3-c3ff02d99b30)
 
 ### **Workspace Finder & Reviews**
@@ -39,11 +39,11 @@ Below are key screenshots from the project demo:
 ### **Budget management Feature**
 (https://github.com/user-attachments/assets/e1fa763f-40cb-4015-90c2-affa4d2ce97f)
 
-### **Community forum **
+### **Community forum**
 (https://github.com/user-attachments/assets/40ed8892-7fb0-4cb9-b106-40ef6468731b)
 (https://github.com/user-attachments/assets/d93c9944-73bc-4112-a412-2cf10bb1f6cf)
 
-### **Chatbot and Culture feature **
+### **Chatbot and Culture feature**
 (https://github.com/user-attachments/assets/ba62b979-21c3-494a-97b6-e40e5c224957)
 (https://github.com/user-attachments/assets/00a8e224-63f7-44ec-afaf-71892fb782d1)
 
@@ -52,3 +52,9 @@ Below are key screenshots from the project demo:
 These visual elements showcase the app's functionality and intuitive UI.
 
 ---
+
+## References
+1. Nomads.com. (n.d.). Nomads.com. https://nomads.com/
+2. Meetup. (n.d.). Login to Meetup | Meetup. https://www.meetup.com/home/?suggested=true&source=EVENTS
+3. Running, T. K. (2023, January 24). The Ultimate List of Travel Apps & Tools for Nomads. Nomad Gate. https://nomadgate.com/travel-tools/
+4. 8 Must-Have Apps for Digital Nomads. (n.d.). https://www.retainr.io/blog/8-musthave-apps-for-digital-nomads
